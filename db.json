@@ -1,0 +1,69 @@
+{
+  "orders": [
+    {
+      "customerName": "Allen",
+      "item": {
+        "title": "Lungo"
+      },
+      "quantity": "6",
+      "tableNo": "8",
+      "id": 1
+    }
+  ],
+  "completedOrders": [
+    {
+      "customerName": "Jaren",
+      "item": {
+        "title": "Cortadito"
+      },
+      "quantity": "7",
+      "tableNo": "2",
+      "id": 6
+    },
+    {
+      "customerName": "Tarek",
+      "item": {
+        "title": "Irish"
+      },
+      "quantity": "4",
+      "tableNo": "6",
+      "id": 5
+    },
+    {
+      "customerName": "David",
+      "item": {
+        "title": "Guayoyo"
+      },
+      "quantity": "4",
+      "tableNo": "9",
+      "id": 4
+    },
+    {
+      "customerName": "Gorean",
+      "item": {
+        "title": "Affogato"
+      },
+      "quantity": "2",
+      "tableNo": "3",
+      "id": 3
+    },
+    {
+      "customerName": "Karem",
+      "item": {
+        "title": "Red Eye"
+      },
+      "quantity": "5",
+      "tableNo": "7",
+      "id": 2
+    },
+    {
+      "customerName": "John",
+      "item": {
+        "title": "Cappuccino"
+      },
+      "quantity": "4",
+      "tableNo": "3",
+      "id": 1
+    }
+  ]
+}
